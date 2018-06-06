@@ -1,4 +1,4 @@
 # Hello-world
 Investigate about GIT
 
-Make and commit changes
+Test make and commit changes 
